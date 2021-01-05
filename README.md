@@ -1,2 +1,2 @@
 # ResNet-VAE
-VAE with ResNet encoder and decoder
+Can't find a satisfying VAE implementation on Github, so I decide to write one myself.
